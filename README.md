@@ -167,17 +167,6 @@ const ITEMS_PER_PAGE = 10;
 - UI components are built in a shadcn/ui style for consistency
 - React Query provides efficient caching and background refetching
 
-## 🕐 Time Estimate
-
-**Development Time**: ~6-8 hours
-
-This includes:
-- Project setup and configuration
-- Component development
-- API integration
-- Form validation
-- LocalStorage persistence
-- Testing and refinement
 
 ## 📄 License
 
